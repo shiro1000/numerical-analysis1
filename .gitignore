@@ -12,7 +12,11 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+.idea/
+venv/
+idea/
+.venv
+.idea
 # Generated files
 .idea/**/contentModel.xml
 
@@ -80,5 +84,4 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
-
 # End of https://www.gitignore.io/api/pycharm
